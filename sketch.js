@@ -70,5 +70,9 @@ function draw () {
     y = 0
     pickColor()
   }
+<<<<<<< HEAD
 }
+=======
+  }
+>>>>>>> f4b793a437e8e092706be2151a972185140f6d55
 
