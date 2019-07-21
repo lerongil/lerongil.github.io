@@ -70,14 +70,5 @@ function draw () {
     y = 0
     pickColor()
   }
-function mouseReleased () {
-  if (value == 0) {
-    value = dvd;
-  } else {
-    value = 0;
-  }
-  }
-
-
   }
 
